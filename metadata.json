@@ -1,0 +1,6 @@
+{
+  "name": "3D Fireworks and Drone Show Simulator",
+  "description": "An interactive 3D simulation of spectacular fireworks and custom drone light shows set against famous global landmarks like Taipei 101, Eiffel Tower, and Tokyo Tower.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

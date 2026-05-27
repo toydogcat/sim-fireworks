@@ -1,2 +1,4 @@
 # sim-fireworks
-Simulated fireworks.
+
+Simulated [fireworks](https://toydogcat.github.io/sim-fireworks/).
+
